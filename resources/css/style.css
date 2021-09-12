@@ -1,0 +1,116 @@
+/*
+Green: #67b26f
+Blue: #4ca2cd
+Mid: #5aaa9d
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: IRANsans, Sahel, Tanha, Arial, sans-serif;
+  color: #444;
+  text-rendering: optimizeLegibility;
+  padding: 100px;
+  background: linear-gradient(to bottom right, #67b26f,  #4ca2cd);
+  background-size: cover;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;  /* CROSS AXIS (y) */
+  justify-content: center;  /* MAIN AXIS (x) */
+}
+
+.pizza {
+  width: 800px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 30px 80px 10px rgba(0, 0, 0, .2);
+
+  display: flex;
+}
+
+.pizza__hero {
+  flex: 0 0 45%;
+}
+
+.pizza__img {
+  width: 100%;
+  display: block;
+}
+
+.pizza__content {
+  flex: 1;
+  background: #fff;
+  padding: 30px 30px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.pizza__price {
+  flex: 0 0 50px;
+  background: linear-gradient(to bottom, #67b26f,  #4ca2cd);
+  writing-mode: vertical-rl;
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pizza__title {
+  display: flex;
+  align-items: center;
+
+  margin-bottom: 15px;
+}
+
+.pizza__heading {
+  font-size: 24px;
+  margin-left: auto;
+}
+
+.pizza__heading span {
+  font-size: 20px;
+}
+
+.pizza__tag {
+  color: #fff;
+  font-size: 14px;
+  padding: 2px 7px;
+  border-radius: 100px;
+  margin-right: 7px;
+}
+
+.pizza__tag--1 { background-color: #67b26f; }
+.pizza__tag--2 { background-color: #4ca2cd; }
+
+.pizza__description {
+  font-size: 14px;
+}
+
+.pizza__details {
+  display: flex;
+  margin-top: auto;
+}
+
+.pizza__detail {
+  font-size: 15px;
+  margin-left: 20px;
+  font-weight: 700;
+
+  display: flex;
+  align-items: center;
+}
+
+.emoji {
+  font-size: 20px;
+  margin-left: 3px;
+}

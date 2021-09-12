@@ -1,0 +1,59 @@
+/* --------------------------------------- */
+/* IRAN SANS FONT */
+/* --------------------------------------- */
+
+@font-face {
+  font-family: IRANsans;
+  src: url('IRAN-Sans/IRAN-Sans-Regular.ttf');
+  src: url('IRAN-Sans/IRAN-Sans-Regular.ttf?#iefix') format('embedded-opentype'),
+       url('IRAN-Sans/IRAN-Sans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: IRANsans;
+  src: url('IRAN-Sans/IRAN-Sans-Bold.ttf');
+  src: url('IRAN-Sans/IRAN-Sans-Bold.ttf?#iefix') format('embedded-opentype'),
+       url('IRAN-Sans/IRAN-Sans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+/* --------------------------------------- */
+/* SAHEL FONT */
+/* --------------------------------------- */
+
+@font-face {
+  font-family: Sahel;
+  src: url('sahel-font-v1.0.0-alpha14/Sahel.eot');
+  src: url('sahel-font-v1.0.0-alpha14/Sahel.eot?#iefix') format('embedded-opentype'),
+       url('sahel-font-v1.0.0-alpha14/Sahel.woff') format('woff'),
+       url('sahel-font-v1.0.0-alpha14/Sahel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('sahel-font-v1.0.0-alpha14/Sahel-Bold.eot');
+  src: url('sahel-font-v1.0.0-alpha14/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+       url('sahel-font-v1.0.0-alpha14/Sahel-Bold.woff') format('woff'),
+       url('sahel-font-v1.0.0-alpha14/Sahel-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* --------------------------------------- */
+/* TANHA FONT */
+/* --------------------------------------- */
+
+@font-face {
+  font-family: Tanha;
+  src: url('tanha-font-v0.9/Tanha.eot');
+  src: url('tanha-font-v0.9/Tanha.eot?#iefix') format('embedded-opentype'),
+       url('tanha-font-v0.9/Tanha.woff') format('woff'),
+       url('tanha-font-v0.9/Tanha.ttf') format('truetype');
+  font-weight: normal;
+}
