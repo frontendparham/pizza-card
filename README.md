@@ -1,12 +1,37 @@
 # pizza-card
 طراحی یک کارت اطلاعات پیتزای جذاب
 
-With HTML, CSS (Flex-Box)
+## Table of contents
 
-⚪ INSTRUCTION: 
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-Just Download All The Files (Via Download ZIP) then Open INDEX.HTML in Browser (Recommended: Chrome) 
+## Overview
 
-🟢 Also you can see the preview of Project in images_of_project File.
+### Screenshot
 
-Parham Tavakolian
+![](./pizza-card.png)
+
+### Links
+
+- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- HTML5
+- CSS
+- Flexbox
+
+## Author
+
+- Parham Tavakolian
+- Instagram - [@frontendparham](https://www.instagram.com/frontendparham)
+- Frontend Mentor - [@frontendparham](https://www.frontendmentor.io/profile/frontendparham)
+- GitHub - [@frontendparham](https://www.twitter.com/yourusername)
+
