@@ -33,5 +33,5 @@
 - Parham Tavakolian
 - Instagram - [@frontendparham](https://www.instagram.com/frontendparham)
 - Frontend Mentor - [@frontendparham](https://www.frontendmentor.io/profile/frontendparham)
-- GitHub - [@frontendparham](https://www.twitter.com/yourusername)
+- GitHub - [@frontendparham](https://www.github.com/yourusername)
 
