@@ -14,11 +14,11 @@
 
 ### Screenshot
 
-![](./pizza-card.png)
+![](./pizza-card.PNG)
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/pizza-card/)
 
 ## My process
 
