@@ -1,5 +1,5 @@
 # pizza-card
-طراحی یک کارت اطلاعات پیتزای جذاب
+Design a beautiful pizza info card
 
 ## Table of contents
 
